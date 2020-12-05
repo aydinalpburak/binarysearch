@@ -1,0 +1,3 @@
+binerysearch klasörü içindeki /*binarysearch.csproj*/ den projeyi açabilirsiniz.
+Hazýrlayan = 171180009 Burak Aydýnalp
+RAR DOSYASINDAN ÇIKARIP ÇALIÞTIRINIZ.
